@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## [ FirePlayer ] by Neron (c) 2018~ | firevideoplayer.com | Skype : neronsilence ##
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=700000,RESOLUTION=640x360,NAME="290p",CODECS="avc1.4D401D,mp4a.40.2"
+https://raw.githubusercontent.com/Icytank/m3u8-test/refs/heads/main/index.m3u8
